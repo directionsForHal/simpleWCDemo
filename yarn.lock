@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@webcomponents/webcomponentsjs@^2.2.10":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.7.0.tgz#8a87aeaaa0757c95eae0e07dd45f3050d1f8be01"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
